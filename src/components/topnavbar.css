@@ -1,0 +1,13 @@
+.nav-link {
+    color: rgb(116, 116, 116) !important ;
+}
+
+li.nav-item {
+    margin:0;
+    padding: 0;
+}
+
+.mysite {
+    font-family: 'Alatsi', sans-serif;
+    
+}

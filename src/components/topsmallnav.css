@@ -1,0 +1,18 @@
+
+.topsmallnav-container>div {
+    border-bottom: 2px solid rgb(146, 146, 146 , 10%) ;
+    
+  }
+  
+
+@media screen and (max-width:768px){
+    .topsmallnav-container>div{
+        flex-direction: column !important;
+        border-bottom: none ;
+    }
+
+    .topsmallnav-container>div>div:first-child{
+        border-bottom: 2px solid rgb(146, 146, 146 , 10%) ;
+    }
+}
+
